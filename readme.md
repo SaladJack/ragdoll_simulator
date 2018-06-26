@@ -13,4 +13,5 @@ A implementation of Ragdoll Simulator
 1. Decompiled code from Gang Beasts
 2. Unity5.x source code
 
-
+# Demo
+![Demo](https://github.com/SaladJack/ragdoll_simulator/blob/master/Gif/demo.gif)
